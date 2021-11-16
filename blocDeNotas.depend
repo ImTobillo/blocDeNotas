@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637030456 source:c:\users\-\onedrive\escritorio\blocdenotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
